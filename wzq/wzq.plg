@@ -1,0 +1,35 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: wzq - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\关中大侠\AppData\Local\Temp\RSP94FE.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /Fp"Debug/wzq.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"C:\Users\关中大侠\Desktop\wzq\wzqDlg.cpp"
+]
+Creating command line "cl.exe @"C:\Users\关中大侠\AppData\Local\Temp\RSP94FE.tmp"" 
+Creating command line "link.exe /nologo /subsystem:windows /incremental:yes /pdb:"Debug/wzq.pdb" /debug /machine:I386 /out:"Debug/wzq.exe" /pdbtype:sept  ".\Debug\StdAfx.obj" ".\Debug\wzq.obj" ".\Debug\wzqDlg.obj" ".\Debug\wzq.res" "
+<h3>Output Window</h3>
+Compiling...
+wzqDlg.cpp
+C:\Users\关中大侠\Desktop\wzq\wzqDlg.cpp(285) : warning C4518: 'int ' : storage-class or type specifier(s) unexpected here; ignored
+C:\Users\关中大侠\Desktop\wzq\wzqDlg.cpp(285) : warning C4228: nonstandard extension used : qualifiers after comma in declarator list are ignored
+C:\Users\关中大侠\Desktop\wzq\wzqDlg.cpp(303) : warning C4518: 'int ' : storage-class or type specifier(s) unexpected here; ignored
+C:\Users\关中大侠\Desktop\wzq\wzqDlg.cpp(303) : warning C4228: nonstandard extension used : qualifiers after comma in declarator list are ignored
+C:\Users\关中大侠\Desktop\wzq\wzqDlg.cpp(324) : warning C4518: 'int ' : storage-class or type specifier(s) unexpected here; ignored
+C:\Users\关中大侠\Desktop\wzq\wzqDlg.cpp(324) : warning C4228: nonstandard extension used : qualifiers after comma in declarator list are ignored
+C:\Users\关中大侠\Desktop\wzq\wzqDlg.cpp(341) : warning C4518: 'int ' : storage-class or type specifier(s) unexpected here; ignored
+C:\Users\关中大侠\Desktop\wzq\wzqDlg.cpp(341) : warning C4228: nonstandard extension used : qualifiers after comma in declarator list are ignored
+Linking...
+
+
+
+<h3>Results</h3>
+wzq.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
